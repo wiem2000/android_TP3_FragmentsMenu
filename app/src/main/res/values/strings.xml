@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment et Menu </string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_color">color</string>
+</resources>
